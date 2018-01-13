@@ -1,0 +1,25 @@
+name: LobbyCore
+version: 0.1-BETA
+author: KordiiOfficial
+main: net.kordii.code.Main
+
+commands:
+  gm:
+    description: Ustawia tryb gry
+    aliases: gamemode
+  v:
+    description: Ukrywa gracza
+    aliases: vanish
+  list:
+    description: Pokazuje graczy online
+  bc:
+    description: Wiadomosc globalna
+    aliases: [broadcast, alert]
+  pogoda:
+    description: Zmiana pogody
+    aliases: weather
+  reverse:
+    description: Wylaczanie pvp na swiecie
+  czas:
+    description: Zmiana czasu swiata
+    aliases: time

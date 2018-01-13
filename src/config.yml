@@ -1,0 +1,21 @@
+# SIEMA POLAKU TO JEST CONFIG PLUGINU LOBBYCORE
+
+#Moduly do wlaczenia
+motd: true
+protection_blocks: true
+chat_format: true
+
+#Wiadomosci
+Title: '&2&lLITE&7&LPVP&8&l.EU &8- &AKORDIIOFFICIAL'
+subTitle: "&8* &aW CONFIGU MASZ DO ZMIANY"
+vanish_poof: '&8* &7Zostales &cukryty &7przed graczami'
+vanish: '&8* &7Pojawiles sie jestes widoczny'
+brodcast_title: '&2&lOGLOSZENIE'
+brodcast_chat: '&2&lOGLOSZENIE'
+motd_lines: '&2&lLITE&7&LPVP&8&L.EU &8- &aPACZKA NA SERWER LOBBY KORDIIOFFICIAL! &8* &EZostawiles Lapeczke pod Filmem? &8(&eNIE&8/&ETAK&8)'
+format_chat: '&2{player}&8: &a{message}'
+joinMessage1: '&eKanal Wlasciciela: &8(&eKordiiOfficial&8)'
+joinMessage2: '&eLINIA 2'
+joinMessage3: '&eLINIA 3'
+joinMessage4: '&eLINIA 4'
+joinMessage5: '&eLINIA 5'
